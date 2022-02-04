@@ -2,8 +2,8 @@
   "name": "github-actions-demo",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:cplee/github-actions-demo.git",
-  "author": "Casey Lee <cplee@nektos.com>",
+  "repository": "git@github.com:js-matos/demo-actions.git.git",
+  "author": "Jonas Matos <js.matos@samsung.com>",
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.4"
